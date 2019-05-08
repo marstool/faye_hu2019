@@ -4,7 +4,7 @@
 	bare = false
 	logallrefupdates = true
 [remote "origin"]
-	url = https://marstool@github.com/marstool/faye_hu2019.git
+	url = https://marstool@github.com/marstool/fayehu2019.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
