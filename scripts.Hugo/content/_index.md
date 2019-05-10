@@ -6,21 +6,6 @@ weight = 20
 
 
 
-* [   fayehu2019.jjj123.com 广州人在美国 ]({{< relref "zz2019" >}})
-
-
-* [   fayehu2018.jjj123.com 广州人在美国 ]({{< relref "zz2018" >}})
-
-
-* [   fayehu2017.jjj123.com 广州人在美国 ]({{< relref "zz2017" >}})
-
-
-* [   fayehu2016.jjj123.com 广州人在美国 ]({{< relref "zz2016" >}})
-
-
-* [   fayehu2014.jjj123.com 广州人在美国 ]({{< relref "zz2014" >}})
-
-
 * [ 20190506  美国餐给我的第一感觉（粤语）  ]({{< relref "20190506_pdwucmj5hra" >}})
 
 
