@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20190418_cpavh1eokfm.mp4" >}}
 
+     https://www.youtube.com/watch?v=cPAVh1eokFM 
      分享我认识真实的美国后，既有歉意也有感谢！（粤语） 
      如果您能接受我说的真话，我要向您说声谢谢！ n如果您不能接受我的真话，对不起，我可能向您泼太多冷水了！ n但无论您是否能接受，我只是想与您分享我的经历和看法。要知道想像和现实是两回事，乐于接受/勇于面对才是最重要！ n谢谢您们的收看！ 
-     https://www.youtube.com/watch?v=cPAVh1eokFM 

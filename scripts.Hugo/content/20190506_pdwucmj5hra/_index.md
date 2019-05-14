@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20190506_pdwucmj5hra.mp4" >}}
 
-     美国餐给我的第一感觉（粤语） 
      https://www.youtube.com/watch?v=pdwucMJ5HRA 
      西餐好吃吗？当我第一次尝到真正的美国餐，原来感觉是.......... 
+     美国餐给我的第一感觉（粤语） 
